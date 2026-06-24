@@ -1,6 +1,6 @@
 # SciCalc Pro
 
-A terminal-based scientific calculator with a full TUI (text user interface), written in a single C++ file. Features a color-coded button grid, expression parser, and keyboard navigation — no dependencies beyond the C++ standard library.
+A terminal-based scientific calculator with a full TUI (text user interface), written in a single C++ file. Features a color-coded button grid, expression parser, and keyboard navigation, no dependencies beyond the C++ standard library.
 
 ---
 
